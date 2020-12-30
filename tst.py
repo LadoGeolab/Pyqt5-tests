@@ -27,7 +27,7 @@ class Example(QWidget):
 
         self.setGeometry(300, 300, 300, 220)
         self.setWindowTitle('Rocket App')
-        self.setWindowIcon(QIcon('desktop/tosend/rocket.png'))
+        self.setWindowIcon(QIcon('desktop/Pyqt5-tests/rocket.png'))
 
         self.show()
 
